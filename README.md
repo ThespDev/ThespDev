@@ -1,5 +1,6 @@
- - 📝 Workflow: Vim https://img.shields.io/badge/-Vim-339933?style=flat-square&logo=vim&logoColor=ffffff| Bash | Git (https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
- - 
+ - 📝 Workflow: Vim | Bash | Git 
+ - 💻 OS: Linux Mint
+ - 📫 Languages: Python | Java
 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThespDev&layout=compact&theme=dark&langs_count=8" />
 
