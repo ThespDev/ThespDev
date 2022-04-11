@@ -1,4 +1,5 @@
-### Hi there 👋
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThespDev&layout=compact&theme=dark&langs_count=8" />
+
 
 <!--
 **ThespDev/ThespDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
