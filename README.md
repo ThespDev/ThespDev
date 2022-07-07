@@ -1,4 +1,4 @@
- - 📝 Workflow: Vim | Bash | Git 
+ - 📝 Workflow: DOOM Emacs | Bash | Git 
  - 💻 OS: Linux Mint
  - 📫 Languages: Python | Java | Basic Web Dev (HTML,CSS,JS)
  - 🔭 Interested in: Reverse Engineering, Blockchain (Solidity), Android Development (Kotlin), Functional Programming (Haskell)
