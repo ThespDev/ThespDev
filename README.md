@@ -1,8 +1,6 @@
  - 📝 Workflow: Vim | Bash | Git 
  - 💻 OS: Linux Mint
- - 📫 Languages: Python | Java | Basic Web Dev (HTML,CSS,JS)
- - 🔭 Interested in: Reverse Engineering, Blockchain (Solidity), Functional Programming (Haskell)
-
+ - 📫 Languages: Python | Java | Basic Web Dev (HTML,CSS,JS) | C
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThespDev&layout=compact&theme=dark&langs_count=4" />
 
 <!--
