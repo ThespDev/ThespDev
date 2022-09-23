@@ -1,6 +1,7 @@
  - 📝 Workflow: Vim | Bash | Git 
  - 💻 OS: Linux Mint
  - 📫 Languages: Python | Java | Basic Web Dev (HTML,CSS,JS) | C
+ - 🌱 Learning/Interested In: Low Level(Rust,C,Go), Functional Programming (Haskell)
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThespDev&layout=compact&theme=dark&langs_count=4" />
 
 <!--
