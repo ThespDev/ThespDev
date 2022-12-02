@@ -2,6 +2,7 @@
  - 💻 OS: GNU/Linux 🐃🐧
  - 📫 Languages: Python | C | JS
  - 🌱 Learning/Interested In: Low Level(Rust,C,Go), Functional Programming (Haskell)
+ - 📚 Reading: Structure and Interpretation of Computer Programs
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThespDev&layout=compact&theme=dark&langs_count=4" />
 
 <!--
