@@ -3,6 +3,7 @@
  - 📫 Languages: Python | C | JS
  - 🌱 Learning/Interested In: Low Level(Rust,C,Go), Functional Programming (Haskell)
  - 📚 Reading: Structure and Interpretation of Computer Programs | Haskell Programming from First Principles  
+<!--
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThespDev&layout=compact&theme=dark&langs_count=4" />
 
 <!--
